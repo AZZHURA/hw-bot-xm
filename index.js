@@ -107,9 +107,9 @@ memberwin = 1 // Win ( HW MODS WA )
 memberlose = 1 // Lose ( HW MODS WA )
 pref = '?' // Prefix ( HW MODS WA )
 fake1 = '©[XM]-[XHIRO MHONSHINE] ✌️'
-targetpc = '6285714170944' // Fitnah Target ( HAIKAL )
-owner = '6285714170944' // Numbers Owner ( HW MODS WA )
-ownerNumbers = ["6285714170944@s.whatsapp.net","6285714170944@s.whatsapp.net","6285714170944@s.whatsapp.net"]
+targetpc = '6285895281411' // Fitnah Target ( HAIKAL )
+owner = '+6285895281411' // Numbers Owner ( HW MODS WA )
+ownerNumbers = ["6285895281411@s.whatsapp.net","+6285895281411@s.whatsapp.net","6285895281411@s.whatsapp.net"]
 linkcom = ".com" // Anti Link ( HW MODS WA )
 linkid = ".id" // Anti Link ( HW MODS WA )
 linkxyz = ".xyz" // Anti Link ( HW MODS WA )
@@ -118,7 +118,7 @@ linkhttp = "http" // Anti Link ( HW MODS WA )
 linkwa = "://chat.whatsapp.com" // Anti Link Group Whatsapp ( HW MODS WA )
 deflt = "..........c.....com" // Default Link ( HW MODS WA )
 linknye = `${deflt}` // Anti Link ( HW MODS WA )
-fake = 'HW MODS WA' // Fake Text Reply / Name Bot ( HW MODS WA )
+fake = 'HW MODS WA & Denz' // Fake Text Reply / Name Bot ( HW MODS WA )
 a = '```' // Font Whatsapp ( HW MODS WA )
 bailver = '3.5.3' // Versi Baileys ( HW MODS WA )
 botver = '1.0.0' // Versi Bot ( HW MODS WA )
@@ -774,7 +774,7 @@ if (budy.startsWith('Menu')){
 res = await Haikal.prepareMessageFromContent(from,{
 "listMessage": {
 "title": `\`\`\`Hi ${pushname} 👋 ${ucapanWaktu}.\`\`\``,
-"description": `❏HW MODS WA❏
+"description": `❏HW MODS WA & DENZ❏
 ▬▭▬▭▬▭▬▭▬▬▭▬▭
 HELLO !!!
 ┏━━⊱
